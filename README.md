@@ -4,16 +4,16 @@
 I am a soon-to-be graduate with a bachelor's in Computer Systems Technology & I have a profound interest in technology. I have a history of working in retail and want to pursue career advancements in technology.
 
 ## Objective
-I aim to gain valuable experience in the dynamic field of Information Technology. As a dedicated student eager to step into the tech industry, I am actively seeking an entry-level position that will allow me to deepen my skills and acquire hands-on knowledge. Currently, I hold CompTIA A+, Network+, and Security+ certifications. I'm committed to continuous learning and plan to achieve the CySA+ certification in the future to enhance my expertise further.
-
+I aim to gain valuable experience in the dynamic field of Information Technology. As a dedicated student eager to step into the tech industry, I am actively seeking an entry-level position that will allow me to deepen my skills and acquire hands-on knowledge. <br>
+Currently, I hold CompTIA A+, Network+, and Security+ certifications. I'm committed to continuous learning and plan to achieve the CySA+ certification in the future to enhance my expertise further. <br>
 In addition to my technical pursuits, my adaptability and quick learning abilities make me well-suited for the ever-evolving tech landscape. I bring forth dependability, excellent customer service, effective communication, and leadership capabilities. I am excited about the prospect of contributing to the technology field and am eager to embrace the challenges that come with it.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Pending          | <a href="URL_HERE">Pending </a>|
-| Pending          | <a href="URL_HERE">Pending </a>|
+| System Administration, Network Configuration, Virtualization Fundamentals          | <a href="https://github.com/Y-Arvin/VirtualBox-ActiveDirectory">VirtualBox-ActiveDirectory </a>|
+| Pending          | <a href="https://github.com/Y-Arvin/Splunk">Splunk </a>|
 | Pending          | <a href="URL_HERE">Pending </a>|
 
 
@@ -37,4 +37,5 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 </div>
 
 ## Projects
-- <a href="URL_HERE">Pending </a>
+- <a href="https://github.com/Y-Arvin/VirtualBox-ActiveDirectory">VirtualBox-ActiveDirectory </a>
+- <a href="https://github.com/Y-Arvin/Splunk">Splunk </a>
