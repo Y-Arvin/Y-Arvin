@@ -1,7 +1,6 @@
 # Hello, I'm Arvin
-<a href="URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
-I am a soon-to-be graduate with a bachelor's in Computer Systems Technology & I have a profound interest in technology. I have a history of working in retail and want to pursue career advancements in technology.
+I am a soon-to-be graduate with a bachelor's in Computer Systems Technology & I have a profound interest in technology. My background includes retail experience, and I'm looking to advance into the technology sector.
 
 ## Objective
 I aim to gain valuable experience in the dynamic field of Information Technology. As a dedicated student eager to step into the tech industry, I am actively seeking an entry-level position that will allow me to deepen my skills and acquire hands-on knowledge. <br>
@@ -13,7 +12,7 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | System Administration, Network Configuration, Virtualization Fundamentals          | <a href="https://github.com/Y-Arvin/VirtualBox-ActiveDirectory">VirtualBox-ActiveDirectory </a>|
-| Pending          | <a href="https://github.com/Y-Arvin/Splunk">Splunk </a>|
+| Splunk Deployment, Data handling in Splunk, Brute force Attack, Splunk for SIEM        | <a href="https://github.com/Y-Arvin/Splunk">Splunk </a>|
 | Pending          | <a href="URL_HERE">Pending </a>|
 
 
