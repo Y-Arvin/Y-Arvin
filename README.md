@@ -20,7 +20,7 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 
 ### Virtualization
 <div>
-    <img src="https://img.shields.io/badge/VMware-696566.svg?style=for-the-badge&logo=VMware&logoColor=white" />  
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=blue" /> 
 </div>
 
 ### SIEM
