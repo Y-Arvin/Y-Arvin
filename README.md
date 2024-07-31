@@ -11,9 +11,12 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Administration, Network Configuration, Virtualization Fundamentals          | <a href="https://github.com/Y-Arvin/VirtualBox-ActiveDirectory">VirtualBox-ActiveDirectory </a>|
-| Splunk Deployment, Data handling in Splunk, Brute force Attack, Splunk for SIEM        | <a href="https://github.com/Y-Arvin/Splunk">Splunk </a>|
-| Payload Generation, Payload Delivery & Execution, Handler Setup         | <a href="https://github.com/Y-Arvin/ReverseTCPAttack">ReverseTCPAttack</a>|
+| System Administration, Network Configuration, Virtualization Fundamentals          | [VirtualBox-ActiveDirectory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory) |
+| Splunk Deployment, Data handling in Splunk, Brute force Attack, Splunk for SIEM        | [Splunk](https://github.com/Y-Arvin/Splunk) |
+| Payload Generation, Payload Delivery & Execution, Handler Setup         | [ReverseTCPAttack](https://github.com/Y-Arvin/ReverseTCPAttack) |
+| x   | [VPN](https://github.com/Y-Arvin/ServiceNow) |
+| Ticket Management, Issue Analysis        |[ServiceNow](https://github.com/Y-Arvin/ServiceNow) |
+
 
 
 ## Tools
@@ -36,6 +39,7 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 </div>
 
 ## Projects
-- <a href="https://github.com/Y-Arvin/VirtualBox-ActiveDirectory">VirtualBox-ActiveDirectory </a>
-- <a href="https://github.com/Y-Arvin/Splunk">Splunk </a>
-- <a href="https://github.com/Y-Arvin/ReverseTCPAttack">ReverseTCPAttack</a>
+- [VirtualBox-ActiveDirectory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory)
+- [Splunk](https://github.com/Y-Arvin/Splunk) 
+- [ReverseTCPAttack](https://github.com/Y-Arvin/ReverseTCPAttack) 
+- [ServiceNow](https://github.com/Y-Arvin/ServiceNow)
