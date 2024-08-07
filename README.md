@@ -14,7 +14,7 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 | System Administration, Network Configuration, Virtualization Fundamentals          | [VirtualBox-ActiveDirectory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory) |
 | Splunk Deployment, Data handling in Splunk, Brute force Attack, Splunk for SIEM        | [Splunk](https://github.com/Y-Arvin/Splunk) |
 | Payload Generation, Payload Delivery & Execution, Handler Setup         | [ReverseTCPAttack](https://github.com/Y-Arvin/ReverseTCPAttack) |
-| x   | [VPN](https://github.com/Y-Arvin/ServiceNow) |
+| Knowledge of VPN Protocols, VPN Server Setup, Connection Testing | [VPN](https://github.com/Y-Arvin/VPN) |
 | Ticket Management, Issue Analysis        |[ServiceNow](https://github.com/Y-Arvin/ServiceNow) |
 
 
@@ -41,5 +41,6 @@ In addition to my technical pursuits, my adaptability and quick learning abiliti
 ## Projects
 - [VirtualBox-ActiveDirectory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory)
 - [Splunk](https://github.com/Y-Arvin/Splunk) 
-- [ReverseTCPAttack](https://github.com/Y-Arvin/ReverseTCPAttack) 
+- [ReverseTCPAttack](https://github.com/Y-Arvin/ReverseTCPAttack)
+- [VPN](https://github.com/Y-Arvin/VPN) 
 - [ServiceNow](https://github.com/Y-Arvin/ServiceNow)
